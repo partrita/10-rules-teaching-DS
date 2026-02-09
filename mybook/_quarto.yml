@@ -3,15 +3,12 @@ project:
   output-dir: docs
 
 book:
-  title: "mybook"
-  author: "Norah Jones"
+  title: "데이터 과학 교육을 위한 10가지 간단한 규칙"
+  author: "Tiffany A. Timbers, Mine Çetinkaya-Rundel"
   date: "1/24/2026"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
-
+    
 bibliography: references.bib
 
 format:
@@ -22,4 +19,3 @@ format:
 
 execute:
   freeze: auto
-
