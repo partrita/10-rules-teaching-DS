@@ -14,7 +14,7 @@ bibliography: references.bib
 format:
   html:
     theme:
-      - default
+      - flatly
       - brand
 
 execute:
